@@ -8,6 +8,10 @@ English version | [Russian version](ru/README.md)
 ### 1b. [Grokking the System Desing Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 ### 2. [Martin Kleppmann. Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 
+## 5-minute workout
+### [ByteByteGo YouTube Channel](https://www.youtube.com/@ByteByteGo)
+### [ByteByteGo Weekly Email Digest](blog.bytebytego.com)
+
 
 ## The Interview Framework
 ![sd-method](https://user-images.githubusercontent.com/20556742/232202689-b49fc2e1-07af-403c-aab3-a3a761333b97.png)
